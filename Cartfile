@@ -1,2 +1,2 @@
-github "krzyzanowskim/CryptoSwift" ~> 0.10.0
-github "AliSoftware/OHHTTPStubs" ~> 6.1
+github "krzyzanowskim/CryptoSwift"
+github "AliSoftware/OHHTTPStubs"
